@@ -1,2 +1,3 @@
 # flash-chat-flutter-master
- integrating firebase 
+ Messenger application using firebse.
+
